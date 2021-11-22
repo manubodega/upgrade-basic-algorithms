@@ -7,7 +7,7 @@ avengers[0] = "IRONMAN"
 console.log(avengers[0])
 
 //.............................EJERCICIO 1.3................................//
-// alert(avengers.length)
+alert(avengers.length)
 
 //.............................EJERCICIO 1.4................................//
 const rickAndMortyCharacters = ["Rick", "Beth", "Jerry"]
